@@ -1,7 +1,7 @@
 import React from 'react'
 import "./hero.css"
 import hand_icon from "../Assets/hand_icon.png"
-import arrow_icon from "../Assets/arrow_icon.png"
+import arrow_icon from "../Assets/arrow.png"
 
 const Hero = () => {
 
@@ -23,7 +23,6 @@ const Hero = () => {
                 </div>
             </div>
             <div className="hero-right">
-
             </div>
         </div>
     )
