@@ -4,6 +4,9 @@ const Product = () => {
   return (
     <div>
       <h1> product </h1>
+      <div>
+        <p>This is Cart and single cart pages </p>
+      </div>
     </div>
   )
 }
