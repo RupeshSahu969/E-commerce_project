@@ -5,6 +5,10 @@ const ShopCategory = () => {
     <div>
       <h3>  I am shopcategory  </h3>
       <p>  new Shoping card add data </p>
+
+<h1> ia ma good</h1>
+
+
     </div>
   )
 }
