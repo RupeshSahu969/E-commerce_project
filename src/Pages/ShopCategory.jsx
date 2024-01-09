@@ -10,6 +10,7 @@ const ShopCategory = () => {
 
 <h1> ia ma good</h1>
 
+<h1> add a new data </h1>
 
     </div>
   )
