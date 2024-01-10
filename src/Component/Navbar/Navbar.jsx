@@ -27,6 +27,9 @@ const Navbar = () => {
                 <div className="nav-cart-count">
                     0
                 </div>
+                <div className="nav-cart-count">
+                    1
+                </div>
                 <h1></h1>
             </div>
         </div>
